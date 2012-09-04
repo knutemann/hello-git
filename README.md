@@ -12,6 +12,8 @@ Click the "Fork" button above to make your own fork of this repository
 (login to your Github account or create a new one when prompted), then
 clone and install:
 
+OH NOS!
+
 ```bash
 $ git clone git@github.com:[your-github-username]/hello-git.git
 $ cd hello-git
