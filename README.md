@@ -1,5 +1,1 @@
-ASDFASDF
-
-```bash
-$ node hello.js
-```
+README RULES
